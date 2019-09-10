@@ -1,0 +1,6 @@
+[0822/102605.347:ERROR:process_info.cc(359)] UncheckedAllocate
+[0827/101104.967:ERROR:file_io_win.cc(179)] CreateFile C:\Users\mekal\AppData\Local\Temp\scoped_dir8092_26003\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0827/105157.981:ERROR:process_info.cc(359)] UncheckedAllocate
+[0906/155153.051:ERROR:process_info.cc(359)] UncheckedAllocate
+[0906/155153.051:ERROR:process_info.cc(359)] UncheckedAllocate
+[0906/155253.868:ERROR:process_info.cc(359)] UncheckedAllocate
