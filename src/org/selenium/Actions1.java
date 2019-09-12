@@ -16,6 +16,6 @@ e.sendKeys("sureshmekala142");
 Actions a=new Actions(driver);
 a.doubleClick(e).perform();
 a.contextClick(e).perform();
-driver.close();
+driver.quit();
 }
 }
